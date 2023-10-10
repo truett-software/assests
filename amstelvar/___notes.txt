@@ -1,0 +1,6 @@
+
+target:
+    AmstelvarAlpha-VF.woff2
+
+does not render correctly:
+    Amstelvar-Roman-VF.woff2
